@@ -1,0 +1,6 @@
+#include "interface_first                                      "
+
+content::content(QObject *parent) : QObject(parent)
+{
+
+}
